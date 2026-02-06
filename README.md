@@ -1,4 +1,4 @@
-# Zero BioStat_Code
+# Zero BioStat
 
 [![R](https://img.shields.io/badge/Language-R-276DC3.svg)](https://www.r-project.org/)
 [![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-success.svg)]()
